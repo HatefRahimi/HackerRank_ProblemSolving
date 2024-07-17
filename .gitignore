@@ -1,0 +1,10 @@
+﻿ProblemSolving/.vs/ProblemSolving/v17/.suo
+*.vsidx
+*.lock
+.vs/
+bin/
+obj/
+Properties/
+App.config
+ProblemSolving.csproj
+ProblemSolving.sln
